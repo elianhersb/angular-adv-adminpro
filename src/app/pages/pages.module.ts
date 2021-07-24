@@ -9,6 +9,7 @@ import { PagesComponent } from './pages.component';
 import { RouterModule } from '@angular/router';
 import { SharedModule } from '../shared/shared.module';
 import { ComponentsModule } from '../components/components.module';
+import { AccountSettingComponent } from './account-setting/account-setting.component';
 
 
 
@@ -18,6 +19,7 @@ import { ComponentsModule } from '../components/components.module';
     ProgressComponent,
     Grafica1Component,
     PagesComponent,
+    AccountSettingComponent,
   ],
   exports:[
     DashboardComponent,
