@@ -12,6 +12,8 @@ export class SidebarService {
         { title:'Main',     href:'/'        },
         { title:'Grafica',  href:'grafica1' },
         { title:'Progreso', href:'progress' },
+        { title:'Promesas', href:'promesas' },
+        { title:'Rxjs',     href:'rxjs'     },
       ]
       
     }
